@@ -22,8 +22,8 @@ setuptools.setup(
         'pandas',
         'numpy',
         'scikit-learn',
-        'math',
-        
+       
+
 
     ],
     python_requires='>=3.5',
